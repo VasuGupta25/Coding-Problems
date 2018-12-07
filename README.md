@@ -1,7 +1,7 @@
 # HackerRank-Problems
 
 ## Problem-Solving
-• Library Fine__
-• The Hurdle Race__
-• Cats and a Mouse__
-• Divisible Sum Pairs__
+• Library Fine <br />
+• The Hurdle Race <br />
+• Cats and a Mouse <br />
+• Divisible Sum Pairs <br />
