@@ -2,21 +2,8 @@
 
 ## Problem-Solving
 - [Library Fine](https://github.com/VasuGupta25/HackerRank-Problems/blob/master/Library%20Fine.cpp) 
-- [The Hurdle Race] 
-- [Cats and a Mouse] 
-- [Divisible Sum Pairs] 
+- [The Hurdle Race](https://github.com/VasuGupta25/HackerRank-Problems/blob/master/The%20Hurdle%20Race) 
+- [Cats and a Mouse](https://github.com/VasuGupta25/HackerRank-Problems/blob/master/Cats%20and%20a%20Mouse)  
+- [Divisible Sum Pairs](https://github.com/VasuGupta25/HackerRank-Problems/blob/master/Divisible%20Sum%20Pairs)  
 
-## Algorithms ![AlgorithmsPoints]
-- [Warmup](https://github.com/RyanFehr/HackerRank#warmup)
-- [Implementation](https://github.com/RyanFehr/HackerRank#implementation)
-- [Strings](https://github.com/RyanFehr/HackerRank#strings)
-- [Sorting](https://github.com/RyanFehr/HackerRank#sorting)
-- [Search](https://github.com/RyanFehr/HackerRank#search)
-- [Graph Theory](https://github.com/RyanFehr/HackerRank#graph-theory)
-- [Greedy](https://github.com/RyanFehr/HackerRank#greedy)
-- [Dynamic Programming](https://github.com/RyanFehr/HackerRank#dynamic-programming)
-- [Constructive Algorithms](https://github.com/RyanFehr/HackerRank#constructive-algorithms)
-- [Bit Manipulation](https://github.com/RyanFehr/HackerRank#bit-manipulation)
-- [Recursion](https://github.com/RyanFehr/HackerRank#recursion)
-- [Game Theory](https://github.com/RyanFehr/HackerRank#game-theory)
-- [NP Complete](https://github.com/RyanFehr/HackerRank#np-complete)
+
