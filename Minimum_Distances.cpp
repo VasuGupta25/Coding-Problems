@@ -1,3 +1,6 @@
+// Important (20 points-easy)
+//https://www.hackerrank.com/challenges/minimum-distances/problem
+
 #include <bits/stdc++.h>
 #include <cstdlib>
 #include <iostream>
