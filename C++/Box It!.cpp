@@ -20,7 +20,7 @@ class Box{
 int getLength(){return l;} // Return box's length
  int getBreadth (){return b;} // Return box's breadth
  int getHeight(){return h;}  //Return box's height
- long long CalculateVolume(){return l*b*h;} // Return the volume of the box
+ long long CalculateVolume(){return (long long)l*b*h;} // Return the volume of the box
 
  bool operator <(Box bb)
 {
@@ -37,7 +37,7 @@ ostream& operator<<(ostream& out, Box &B) // As at line 86 we cannot print objec
     return out<<l<<' '<<b<<' '<<h;
 }
 
-
+/*
 void check2()
 {
 	int n;
@@ -90,3 +90,4 @@ int main()
 {
 	check2();
 }
+*/
